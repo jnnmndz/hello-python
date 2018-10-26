@@ -7,5 +7,5 @@ data = {"Name":"Janine C. Mendoza",
 print("I am {} ".format(data["Name"]))
 print("My spirit Animal is {}".format(data["My Spirit Animal"]))
 print("Because {}".format(data["Why"]))
-print("When not in school, {}".format(data["Hobby"]))
+print("When not in school, my Hobby is {}".format(data["Hobby"]))
 print("I dream of being a/an {}".format(data["Profession"]))
